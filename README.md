@@ -1,5 +1,4 @@
-<h1 align="center">I'm Nick 👋🏽</h1>
-<h3 align="center">A full-stack developer from Pittsburgh</h3>
+![nick js](https://user-images.githubusercontent.com/101999951/170920884-5c7d46eb-fe99-4be0-8fce-9909951e0a23.gif)
 
 
 
