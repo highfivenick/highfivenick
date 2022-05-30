@@ -1,4 +1,4 @@
-![nick js](https://user-images.githubusercontent.com/101999951/170920884-5c7d46eb-fe99-4be0-8fce-9909951e0a23.gif)
+![nick js](https://user-images.githubusercontent.com/101999951/170922568-75e60ae1-edac-4044-a3a4-b15af623c0ec.gif)
 
 <h1 align="center"> I'm Nick, a problem-solver who loves to create. I'm passionate about arts and humanities, and I'm motivated to use my skill as a tool to create happiness and positive change.  <h1>
 
